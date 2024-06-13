@@ -1,13 +1,15 @@
 # YouTube Music Discord Bot
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/milaasHD/DiscordMusicBot)
+[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://github.com/milaasHD/DiscordMusicBot)
+[![Youtube](https://img.shields.io/badge/youtube-black?style=for-the-badge&logo=youtube)](https://github.com/milaasHD/DiscordMusicBot)
+[![FFMPEG](https://img.shields.io/badge/ffmpeg-black?style=for-the-badge&logo=FFMPEG)](https://github.com/milaasHD/DiscordMusicBot)
 
 This project is a Discord bot designed to stream music from YouTube using `yt-dlp` and `ffmpeg`. Due to legal reasons, the code isn't here in this repository. This README provides an overview of the bot's features and functionality for academic purposes only. NONE COMMERCIAL USE
 
-**If you're interested to learn more about this, for academic affairs, don't hesitate to contact me**
+**If you're interested to learn more about this, for academic affairs, don't hesitate to contact me.**
 
-[![Python](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:milaasHD.dev@proton.me")
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/milaasHD/DiscordMusicBot)
-[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://github.com/milaasHD/DiscordMusicBot)
-
+## Contact
+[![Proton](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:milaasHD.dev@proton.me")
 
 
 ## Table of Contents
@@ -20,7 +22,7 @@ This project is a Discord bot designed to stream music from YouTube using `yt-dl
 
 ## Introduction
 
-The YouTube Music Discord Bot leverages `yt-dlp` for downloading and extracting audio from YouTube videos and `ffmpeg` for streaming the audio in Discord voice channels. The bot provides an easy way for users to enjoy music together in real-time on Discord. This project is shared privately and not intended for public distribution or use due to the nature of youtubes guidelines.
+The YouTube Music Discord Bot leverages `yt-dlp` for downloading and extracting audio from YouTube videos and `ffmpeg` for streaming the audio in Discord voice channels. The bot provides an easy way for users to enjoy music together in real-time on Discord. This project is shared privately and not intended for public distribution or use, due to youtube guidelines.
 
 ## Features
 
