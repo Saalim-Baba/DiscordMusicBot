@@ -11,7 +11,7 @@ This project is a Discord bot designed to stream music from YouTube using `yt-dl
 ## Contact
 Want to write me an E-Mail regarding this project? Click below!
 
-[![Proton](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:milaasHD.dev@proton.me")
+[![Proton](https://img.shields.io/badge/proton-black?style=for-the-badge&logo=proton)](mailto:BabaCodes@proton.me")
 
 
 ## Table of Contents
